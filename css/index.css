@@ -1,0 +1,36 @@
+.row-header{
+    margin :0px auto;
+    padding:0px auto;
+}
+
+.row-content{
+    margin:0px auto;
+    padding:50px 0px 50px 0px;
+    border-bottom:1px ridge;
+
+}
+
+.footer{
+    background-color:rgb(54, 131, 131, 0.6);
+    margin:0px auto;
+    padding:20px 0px 20px 0px;
+
+}
+#jumbo{
+    padding:70px 30px 70px 30px;
+    margin:0px;
+    background-color:rgb(54,131,131);
+    color:floralwhite;
+}
+
+.address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f
+}
+
+#navmy{
+ background-color:rgb(88, 113, 133)!important ;
+ color:floralwhite;
+}
+

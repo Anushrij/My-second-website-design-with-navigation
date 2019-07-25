@@ -1,0 +1,39 @@
+.row-header{
+    background-color:rgb(126, 43, 107)!important;
+    margin:0px auto;
+    padding:0px auto;
+    color:floralwhite;
+}
+
+.h2h{
+    padding-left:2vh;
+    margin:0px auto;
+    padding-bottom:2vh;
+}
+
+.main-content{
+ margin:0px auto;
+ padding-bottom:10vh;
+ border-bottom: 1px ridge rgb(0,0,0,0.3);
+}
+
+.sec-content{
+    padding-top:5vh;
+    padding-bottom:7vh;
+    margin:0px auto;
+}
+.foot{
+    margin:0px auto;
+    background-color:rgb(116,43,100,0.5);
+}
+#navmy{
+    background-color:rgb(88, 113, 133) !important ;
+    color:floralwhite;
+   }
+
+
+   body{
+       padding:50px 0px 0px 0px;
+       z-index:0;
+   }
+   
