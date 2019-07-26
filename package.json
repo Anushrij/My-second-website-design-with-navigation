@@ -1,22 +1,27 @@
 {
   "name": "confuse",
   "version": "1.0.0",
-  "description": "",
+  "description": "Actually my mini practice project with bootstrap",
   "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "loadash": "^1.0.0",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anushrij/My-second-website-design-with-navigation.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jquery": "^3.4.1",
-    "live": "^0.1.25-beta.0",
-    "loadash": "^1.0.0",
-    "popper.js": "^1.15.0",
-    "server": "^1.0.19"
+  "bugs": {
+    "url": "https://github.com/Anushrij/My-second-website-design-with-navigation/issues"
   },
-  "devDependencies": {
-    "bootstrap": "^4.3.1"
-  }
+  "homepage": "https://github.com/Anushrij/My-second-website-design-with-navigation#readme"
 }
