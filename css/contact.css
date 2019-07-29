@@ -1,0 +1,59 @@
+#nav-reg{
+    background-color:rgb(88, 113, 133) !important;
+}
+.row-header{
+    background:rgb(126, 43, 107)!important;
+    color:floralwhite;
+    margin:0px auto;
+    padding-top:15vh;
+
+}
+
+.h2h{
+    margin:0px auto;
+    padding-top:3vh;
+    padding-bottom:3vh;
+}
+
+.lock-info{
+padding-top:1vh;
+margin:0px auto;
+}
+
+.add{
+    margin:0px auto;
+    padding-bottom:3vh;
+}
+
+.sos{
+    margin:0px auto;
+    padding-bottom:4vh;
+    padding-left:5vh;
+}
+.loc{
+    margin:0px auto;
+    padding-top:3vh;
+    padding-left:10vh;
+}
+
+.feed{
+    margin:0px auto;
+    padding-bottom:4vh;
+}
+
+.fri{
+    margin:0px auto;
+    padding-bottom:3vh;
+    
+}
+
+#add1{
+    background-color:rgb(116,43,100,0.5);
+}
+
+
+
+
+
+
+

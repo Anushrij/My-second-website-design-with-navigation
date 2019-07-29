@@ -1,7 +1,7 @@
 .row-header{
     background-color:rgb(126, 43, 107)!important;
     margin:0px auto;
-    padding:0px auto;
+    padding-top:15vh;
     color:floralwhite;
 }
 
@@ -27,13 +27,20 @@
     background-color:rgb(116,43,100,0.5);
 }
 #navmy{
-    background-color:rgb(88, 113, 133) !important ;
+    background-color:rgb(88, 113, 133) !important;
     color:floralwhite;
    }
 
 
    body{
-       padding:50px 0px 0px 0px;
+       padding:50px 0px 0px 0px;  
        z-index:0;
+   }
+
+
+   .tt{
+       display:block !important;
+    margin-left: auto!important;
+    margin-right: auto!important;
    }
    
